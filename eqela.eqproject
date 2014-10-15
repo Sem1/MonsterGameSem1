@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Azarias_MonsterGame
+#
+
+projectname: Azarias_MonsterGame
+vendorid: com.mycompany
+mainmodule: com.mycompany.azariasmonstergame
